@@ -1,1 +1,3 @@
-# react-udemy-course
+# nestjs on the backend
+# react on the frontend 
+
